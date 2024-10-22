@@ -94,8 +94,8 @@ src/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ashupandey1620/convin-assignment.git
-    cd convin-assignment
+    git clone https://github.com/amitshankhwar/convinBackendAssignment.git
+    cd convinBackendAssignment
     ```
 
 2. Install dependencies:
